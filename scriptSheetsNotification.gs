@@ -1,4 +1,4 @@
-```javascript
+
 var ss = SpreadsheetApp.getActive();
 //var EMAIL1 = ss.getOwner(); //email 
 var EMAIL1 = "a.dotsenko@axicore.ua"; //email 
